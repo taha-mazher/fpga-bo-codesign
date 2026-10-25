@@ -1,0 +1,137 @@
+
+gp_0: 40 designs, hypervolume after 5: 0.1712  10: 0.2623  15: 0.2802  20: 0.2828  25: 0.2888  30: 0.2888  35: 0.2889  40: 0.2909
+  H1  2 H2  2 WW  8 TAU 0.00 | acc  90.26%  LUTs  292  gyro  0.00%  cycles   34.0
+  H1  3 H2  2 WW 11 TAU 0.00 | acc  92.51%  LUTs  295  gyro  0.00%  cycles   47.0
+  H1  5 H2  9 WW  6 TAU 0.00 | acc  92.58%  LUTs  311  gyro  0.00%  cycles   73.0
+  H1 12 H2  2 WW  6 TAU 0.00 | acc  93.56%  LUTs  313  gyro  0.00%  cycles  164.0
+  H1 12 H2  2 WW  8 TAU 1.75 | acc  94.47%  LUTs  331  gyro 16.80%  cycles  168.9
+  H1 12 H2  2 WW 16 TAU 2.00 | acc  94.48%  LUTs  355  gyro 18.00%  cycles  169.2
+  H1 12 H2  2 WW 16 TAU 2.00 | acc  94.48%  LUTs  355  gyro 18.00%  cycles  169.2
+  H1 10 H2 23 WW  6 TAU 0.25 | acc  94.05%  LUTs  358  gyro  7.14%  cycles  157.8
+  H1 10 H2 24 WW  9 TAU 0.00 | acc  93.57%  LUTs  381  gyro  0.00%  cycles  138.0
+
+random_0: 40 designs, hypervolume after 5: 0.1712  10: 0.1859  15: 0.2185  20: 0.2437  25: 0.2527  30: 0.2527  35: 0.2527  40: 0.2529
+  H1  6 H2  4 WW  9 TAU 0.50 | acc  92.66%  LUTs  315  gyro  7.82%  cycles   90.3
+  H1 16 H2  4 WW  8 TAU 0.50 | acc  93.52%  LUTs  330  gyro  8.29%  cycles  220.0
+  H1  3 H2 16 WW  7 TAU 4.00 | acc  93.61%  LUTs  338  gyro 28.20%  cycles  104.3
+  H1 11 H2  7 WW 11 TAU 1.00 | acc  94.33%  LUTs  339  gyro 12.75%  cycles  161.3
+  H1 10 H2  8 WW 11 TAU 0.25 | acc  93.41%  LUTs  340  gyro  6.72%  cycles  145.9
+  H1  7 H2 12 WW 13 TAU 0.25 | acc  93.23%  LUTs  348  gyro  4.30%  cycles  104.1
+  H1 10 H2  2 WW 15 TAU 0.00 | acc  93.64%  LUTs  352  gyro  0.00%  cycles  138.0
+  H1 10 H2 23 WW  6 TAU 0.25 | acc  94.05%  LUTs  358  gyro  7.14%  cycles  157.8
+  H1 12 H2 17 WW  8 TAU 0.50 | acc  94.10%  LUTs  364  gyro  7.59%  cycles  177.4
+  H1 15 H2 10 WW 10 TAU 3.75 | acc  94.36%  LUTs  370  gyro 27.81%  cycles  236.8
+
+nsga2_0: 40 designs, hypervolume after 5: 0.1712  10: 0.1860  15: 0.2036  20: 0.2066  25: 0.2145  30: 0.2152  35: 0.2325  40: 0.2408
+  H1  3 H2 10 WW  7 TAU 1.00 | acc  93.92%  LUTs  325  gyro 13.07%  cycles   66.5
+  H1  3 H2  9 WW  8 TAU 4.00 | acc  93.97%  LUTs  330  gyro 28.24%  cycles   80.3
+  H1 10 H2 10 WW  7 TAU 2.75 | acc  94.29%  LUTs  334  gyro 25.14%  cycles  169.3
+  H1 10 H2 10 WW  8 TAU 2.75 | acc  94.56%  LUTs  338  gyro 25.54%  cycles  169.6
+  H1 16 H2 17 WW  6 TAU 0.00 | acc  92.57%  LUTs  346  gyro  0.00%  cycles  216.0
+  H1  7 H2 12 WW 12 TAU 2.75 | acc  94.45%  LUTs  347  gyro 24.37%  cycles  136.6
+  H1 16 H2 12 WW  7 TAU 0.00 | acc  92.82%  LUTs  350  gyro  0.00%  cycles  216.0
+  H1 10 H2 23 WW  6 TAU 2.00 | acc  93.95%  LUTs  357  gyro 23.39%  cycles  208.2
+  H1 10 H2 23 WW  6 TAU 0.25 | acc  94.05%  LUTs  358  gyro  7.14%  cycles  157.8
+  H1 10 H2 23 WW  8 TAU 0.00 | acc  93.56%  LUTs  366  gyro  0.00%  cycles  138.0
+  H1 16 H2 10 WW 14 TAU 2.00 | acc  94.09%  LUTs  409  gyro 22.38%  cycles  243.4
+  H1 16 H2 10 WW 14 TAU 2.25 | acc  94.10%  LUTs  409  gyro 23.65%  cycles  244.6
+  H1 16 H2 10 WW 14 TAU 2.00 | acc  94.09%  LUTs  409  gyro 22.38%  cycles  243.4
+
+gp_1: 40 designs, hypervolume after 5: 0.1958  10: 0.2442  15: 0.2785  20: 0.2787  25: 0.2801  30: 0.2835  35: 0.2846  40: 0.2861
+  H1  3 H2  2 WW  6 TAU 0.00 | acc  92.51%  LUTs  294  gyro  0.00%  cycles   47.0
+  H1  5 H2  2 WW  6 TAU 0.00 | acc  92.58%  LUTs  296  gyro  0.00%  cycles   73.0
+  H1  4 H2  4 WW  8 TAU 1.25 | acc  93.37%  LUTs  310  gyro 17.92%  cycles   69.3
+  H1 13 H2  2 WW  6 TAU 0.00 | acc  92.65%  LUTs  313  gyro  0.00%  cycles  177.0
+  H1  5 H2  2 WW 11 TAU 1.50 | acc  93.82%  LUTs  317  gyro 18.55%  cycles   77.7
+  H1 11 H2  2 WW  6 TAU 0.75 | acc  93.44%  LUTs  322  gyro  9.97%  cycles  153.2
+  H1 16 H2  2 WW 10 TAU 1.75 | acc  93.97%  LUTs  337  gyro 21.08%  cycles  221.8
+  H1  9 H2  2 WW 11 TAU 1.00 | acc  93.94%  LUTs  337  gyro 12.68%  cycles  128.7
+  H1 11 H2  2 WW 12 TAU 0.75 | acc  94.18%  LUTs  344  gyro 10.67%  cycles  153.8
+  H1 12 H2  2 WW 13 TAU 1.50 | acc  94.33%  LUTs  349  gyro 14.94%  cycles  167.9
+  H1 11 H2  2 WW 16 TAU 0.00 | acc  92.92%  LUTs  352  gyro  0.00%  cycles  151.0
+  H1 13 H2  2 WW 16 TAU 0.75 | acc  93.48%  LUTs  357  gyro  9.59%  cycles  179.9
+  H1 12 H2  9 WW 10 TAU 0.75 | acc  94.31%  LUTs  367  gyro  9.48%  cycles  174.3
+  H1 12 H2  9 WW 16 TAU 0.00 | acc  93.46%  LUTs  398  gyro  0.00%  cycles  164.0
+
+random_1: 40 designs, hypervolume after 5: 0.1958  10: 0.2407  15: 0.2496  20: 0.2500  25: 0.2500  30: 0.2517  35: 0.2562  40: 0.2591
+  H1  2 H2  2 WW  6 TAU 1.00 | acc  88.22%  LUTs  303  gyro 17.20%  cycles   39.7
+  H1  6 H2  4 WW  6 TAU 2.75 | acc  92.50%  LUTs  309  gyro 23.77%  cycles   99.1
+  H1  4 H2  4 WW  8 TAU 1.25 | acc  93.37%  LUTs  310  gyro 17.92%  cycles   69.3
+  H1 10 H2  5 WW  6 TAU 0.50 | acc  92.82%  LUTs  320  gyro 11.71%  cycles  147.0
+  H1 10 H2  6 WW  8 TAU 3.00 | acc  94.29%  LUTs  328  gyro 26.09%  cycles  157.4
+  H1  5 H2  8 WW 11 TAU 0.00 | acc  92.36%  LUTs  333  gyro  0.00%  cycles   73.0
+  H1  8 H2 14 WW  7 TAU 0.75 | acc  92.99%  LUTs  339  gyro 11.72%  cycles  132.9
+  H1 10 H2  5 WW 12 TAU 2.75 | acc  94.05%  LUTs  344  gyro 25.71%  cycles  154.3
+  H1  3 H2 11 WW 13 TAU 1.75 | acc  93.72%  LUTs  348  gyro 18.87%  cycles   76.7
+  H1  8 H2 18 WW  6 TAU 1.25 | acc  93.15%  LUTs  352  gyro 14.40%  cycles  145.3
+  H1 15 H2 22 WW  6 TAU 0.00 | acc  92.81%  LUTs  353  gyro  0.00%  cycles  203.0
+  H1 15 H2 15 WW  6 TAU 2.50 | acc  93.80%  LUTs  353  gyro 24.58%  cycles  251.0
+  H1 10 H2  2 WW 14 TAU 0.75 | acc  94.18%  LUTs  355  gyro 13.93%  cycles  142.6
+  H1  3 H2 12 WW 15 TAU 1.00 | acc  93.78%  LUTs  356  gyro 12.93%  cycles   70.0
+  H1  7 H2 14 WW 10 TAU 2.75 | acc  94.31%  LUTs  359  gyro 24.35%  cycles  142.7
+  H1 12 H2 24 WW  7 TAU 0.50 | acc  93.94%  LUTs  373  gyro  7.58%  cycles  181.2
+  H1 14 H2 10 WW 15 TAU 3.00 | acc  94.33%  LUTs  400  gyro 25.59%  cycles  221.3
+  H1 13 H2 23 WW 13 TAU 0.50 | acc  93.22%  LUTs  429  gyro  5.99%  cycles  196.2
+
+nsga2_1: 40 designs, hypervolume after 5: 0.1958  10: 0.2401  15: 0.2442  20: 0.2452  25: 0.2577  30: 0.2591  35: 0.2591  40: 0.2595
+  H1  4 H2  4 WW  8 TAU 1.25 | acc  93.37%  LUTs  310  gyro 17.92%  cycles   69.3
+  H1  4 H2  4 WW  8 TAU 1.25 | acc  93.37%  LUTs  310  gyro 17.92%  cycles   69.3
+  H1  4 H2  9 WW  7 TAU 0.00 | acc  91.89%  LUTs  314  gyro  0.00%  cycles   60.0
+  H1  5 H2  4 WW 10 TAU 1.25 | acc  93.54%  LUTs  314  gyro 16.43%  cycles   81.4
+  H1  4 H2  9 WW  7 TAU 0.00 | acc  91.89%  LUTs  314  gyro  0.00%  cycles   60.0
+  H1 14 H2  4 WW  7 TAU 0.50 | acc  93.49%  LUTs  327  gyro  8.65%  cycles  194.9
+  H1 14 H2  4 WW  8 TAU 3.00 | acc  93.90%  LUTs  330  gyro 25.40%  cycles  203.1
+  H1 14 H2  4 WW  8 TAU 3.00 | acc  93.90%  LUTs  330  gyro 25.40%  cycles  203.1
+  H1  4 H2  8 WW  9 TAU 0.50 | acc  92.72%  LUTs  332  gyro  8.21%  cycles   66.5
+  H1 14 H2  4 WW  9 TAU 1.25 | acc  93.82%  LUTs  334  gyro 15.52%  cycles  198.4
+  H1  9 H2  3 WW 12 TAU 0.00 | acc  92.38%  LUTs  336  gyro  0.00%  cycles  125.0
+  H1  9 H2  4 WW 13 TAU 1.25 | acc  93.65%  LUTs  352  gyro 15.12%  cycles  132.5
+  H1 15 H2 22 WW  6 TAU 0.00 | acc  92.81%  LUTs  353  gyro  0.00%  cycles  203.0
+  H1  7 H2 14 WW 10 TAU 2.75 | acc  94.31%  LUTs  359  gyro 24.35%  cycles  142.7
+  H1 14 H2  4 WW 16 TAU 1.25 | acc  93.88%  LUTs  361  gyro 15.10%  cycles  198.4
+  H1 14 H2 17 WW  8 TAU 0.00 | acc  92.82%  LUTs  366  gyro  0.00%  cycles  190.0
+  H1 14 H2 17 WW  8 TAU 2.00 | acc  93.91%  LUTs  373  gyro 21.15%  cycles  235.4
+  H1 14 H2 24 WW  8 TAU 1.25 | acc  93.91%  LUTs  380  gyro 15.02%  cycles  237.2
+  H1 14 H2 24 WW  8 TAU 0.50 | acc  93.65%  LUTs  382  gyro  8.57%  cycles  217.1
+  H1 15 H2 24 WW 14 TAU 0.00 | acc  92.88%  LUTs  465  gyro  0.00%  cycles  203.0
+
+gp_2: 40 designs, hypervolume after 5: 0.1745  10: 0.2538  15: 0.2684  20: 0.2723  25: 0.2725  30: 0.2793  35: 0.2797  40: 0.2838
+  H1  2 H2  2 WW  9 TAU 0.00 | acc  90.62%  LUTs  295  gyro  0.00%  cycles   34.0
+  H1  2 H2  2 WW  9 TAU 1.00 | acc  91.28%  LUTs  303  gyro 17.80%  cycles   39.7
+  H1  3 H2  2 WW  9 TAU 0.25 | acc  93.33%  LUTs  304  gyro  5.64%  cycles   49.0
+  H1  6 H2  7 WW  6 TAU 0.00 | acc  91.18%  LUTs  309  gyro  0.00%  cycles   86.0
+  H1 11 H2  2 WW  6 TAU 0.00 | acc  92.80%  LUTs  310  gyro  0.00%  cycles  151.0
+  H1  3 H2 15 WW  8 TAU 0.25 | acc  93.08%  LUTs  329  gyro  5.60%  cycles   59.6
+  H1  4 H2 13 WW  8 TAU 3.25 | acc  93.45%  LUTs  330  gyro 27.63%  cycles   96.7
+  H1  7 H2 12 WW  9 TAU 0.75 | acc  93.72%  LUTs  336  gyro 11.51%  cycles  115.7
+  H1  5 H2  9 WW  9 TAU 0.50 | acc  93.53%  LUTs  336  gyro  9.28%  cycles   83.7
+  H1  9 H2  3 WW 10 TAU 0.25 | acc  93.22%  LUTs  338  gyro  5.59%  cycles  127.4
+  H1  5 H2 10 WW 11 TAU 0.75 | acc  93.67%  LUTs  338  gyro 11.50%  cycles   87.3
+  H1 10 H2 19 WW  6 TAU 0.00 | acc  93.42%  LUTs  340  gyro  0.00%  cycles  138.0
+  H1  9 H2  2 WW 13 TAU 0.75 | acc  93.72%  LUTs  344  gyro 10.23%  cycles  127.9
+  H1 11 H2  2 WW 13 TAU 1.00 | acc  94.37%  LUTs  346  gyro 12.79%  cycles  154.3
+  H1 12 H2  2 WW 16 TAU 0.00 | acc  93.46%  LUTs  353  gyro  0.00%  cycles  164.0
+  H1  5 H2 17 WW  9 TAU 0.75 | acc  93.79%  LUTs  354  gyro 11.55%  cycles   98.6
+  H1 11 H2  2 WW 16 TAU 0.75 | acc  94.17%  LUTs  359  gyro 10.67%  cycles  153.8
+  H1 14 H2 13 WW 15 TAU 0.25 | acc  93.49%  LUTs  417  gyro  5.00%  cycles  197.5
+
+random_2: 40 designs, hypervolume after 5: 0.1745  10: 0.2128  15: 0.2331  20: 0.2479  25: 0.2510  30: 0.2510  35: 0.2511  40: 0.2522
+  H1  7 H2  2 WW 14 TAU 1.00 | acc  94.48%  LUTs  321  gyro 13.01%  cycles  102.6
+  H1  6 H2  6 WW  7 TAU 1.00 | acc  93.16%  LUTs  324  gyro 12.05%  cycles   94.7
+  H1 16 H2  4 WW  9 TAU 0.00 | acc  92.48%  LUTs  326  gyro  0.00%  cycles  216.0
+  H1  3 H2 15 WW  8 TAU 0.25 | acc  93.08%  LUTs  329  gyro  5.60%  cycles   59.6
+  H1  5 H2 18 WW  6 TAU 0.00 | acc  92.58%  LUTs  334  gyro  0.00%  cycles   73.0
+  H1  7 H2 15 WW  6 TAU 0.25 | acc  93.73%  LUTs  334  gyro  4.73%  cycles  105.6
+  H1 11 H2  5 WW 15 TAU 0.75 | acc  93.88%  LUTs  353  gyro 10.67%  cycles  157.5
+  H1  7 H2 21 WW 10 TAU 0.00 | acc  92.65%  LUTs  374  gyro  0.00%  cycles   99.0
+
+nsga2_2: 40 designs, hypervolume after 5: 0.1745  10: 0.2116  15: 0.2265  20: 0.2397  25: 0.2398  30: 0.2450  35: 0.2552  40: 0.2563
+  H1  3 H2  2 WW 12 TAU 1.75 | acc  94.14%  LUTs  305  gyro 18.87%  cycles   53.1
+  H1  8 H2  2 WW  8 TAU 0.25 | acc  93.06%  LUTs  309  gyro  4.75%  cycles  113.6
+  H1  7 H2  2 WW 12 TAU 0.50 | acc  94.28%  LUTs  314  gyro  7.35%  cycles  100.9
+  H1  7 H2  2 WW 12 TAU 1.75 | acc  94.62%  LUTs  320  gyro 18.92%  cycles  104.6
+  H1  7 H2  2 WW 12 TAU 1.75 | acc  94.62%  LUTs  320  gyro 18.92%  cycles  104.6
+  H1  7 H2  2 WW 12 TAU 0.25 | acc  93.54%  LUTs  320  gyro  4.34%  cycles  100.0
+  H1  7 H2  2 WW 12 TAU 0.25 | acc  93.54%  LUTs  320  gyro  4.34%  cycles  100.0
+  H1  7 H2  2 WW 12 TAU 0.25 | acc  93.54%  LUTs  320  gyro  4.34%  cycles  100.0
+  H1 13 H2  2 WW  7 TAU 0.25 | acc  92.69%  LUTs  324  gyro  4.10%  cycles  178.4

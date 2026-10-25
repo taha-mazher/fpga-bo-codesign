@@ -1,0 +1,9 @@
+# Summary lines of noise_check.py (5 training seeds per design). 'P published' in this run = the hand-tuned baseline cascade.
+P published      val  acc  93.37 +- 0.48  (min  92.78)  gyro 14.14 +- 1.70%  seeds not fitting 16 bits: 0/5
+P published      test acc  94.27 +- 0.50  (min  93.59)  gyro 14.80 +- 3.25%  seeds not fitting 16 bits: 0/5
+A most accurate  val  acc  93.74 +- 0.43  (min  93.12)  gyro  7.90 +- 1.16%  seeds not fitting 12 bits: 0/5
+A most accurate  test acc  93.98 +- 0.59  (min  93.36)  gyro  9.20 +- 1.52%  seeds not fitting 12 bits: 0/5
+B no gyro        val  acc  92.96 +- 0.53  (min  92.21)  gyro  0.00 +- 0.00%  seeds not fitting 6 bits: 0/5
+B no gyro        test acc  92.78 +- 0.38  (min  92.22)  gyro  0.00 +- 0.00%  seeds not fitting 6 bits: 1/5
+C smallest       val  acc  93.39 +- 0.35  (min  93.01)  gyro  5.53 +- 0.80%  seeds not fitting 9 bits: 0/5
+C smallest       test acc  92.80 +- 1.07  (min  91.39)  gyro  5.96 +- 0.30%  seeds not fitting 9 bits: 0/5

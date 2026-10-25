@@ -1,0 +1,13 @@
+__pycache__/
+data/
+rtl/mem/
+out/*.mem
+vivado/out_*/
+vivado/*.log
+vivado/*.jou
+vivado/*.mem
+vivado/*.wdb
+vivado/*.pb
+vivado/xsim*
+vivado/.Xil/
+.Xil/

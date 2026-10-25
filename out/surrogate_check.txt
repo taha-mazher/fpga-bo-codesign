@@ -1,0 +1,7 @@
+294 designs, LUTs 292 to 492
+LUTs mean   MAE   25.8  ( 7.3%)  within 5%:  44.6%  R2  0.00
+LUTs linear MAE    9.7  ( 2.7%)  within 5%:  85.7%  R2  0.86
+LUTs GP     MAE    4.0  ( 1.1%)  within 5%:  99.0%  R2  0.97
+FFs  mean   MAE    2.3  ( 0.8%)  within 5%: 100.0%  R2  0.00
+FFs  linear MAE    1.6  ( 0.6%)  within 5%: 100.0%  R2  0.63
+FFs  GP     MAE    0.3  ( 0.1%)  within 5%: 100.0%  R2  0.94
